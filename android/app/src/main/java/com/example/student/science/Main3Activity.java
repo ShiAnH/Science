@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 
+//test
+
 import com.example.student.science.R;
 
 public class Main3Activity extends AppCompatActivity {
